@@ -35,7 +35,7 @@ This project allows users to add, edit, delete, and view product details with ca
 
 Displays all products with category filter on the left side.
 
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home page.png)
 
 ---
 
@@ -43,7 +43,7 @@ Displays all products with category filter on the left side.
 
 Form to create a new product with image URL, title, category, price and description.
 
-![Add Product](./screenshots/add-product.png)
+![Add Product](./screenshots/add new product.png)
 
 ---
 
